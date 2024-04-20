@@ -58,7 +58,7 @@ pm_buttons = [
         InlineKeyboardButton(
             text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://t.me/team_ligit"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀed IndianDevloper 🥀", user_id=config.OWNER_ID),
     ],
 ]
 
