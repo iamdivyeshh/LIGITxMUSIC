@@ -51,14 +51,14 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url="https://t.me/attractvibes"),
         InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
             text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://t.me/AbusingZone"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀed IndianDevloper 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -71,7 +71,7 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url="https://t.me/attractvibes"),
         InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
     ],
     [
