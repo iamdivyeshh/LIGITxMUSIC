@@ -25,9 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟɪɢɪᴛ ✘ ᴍ
 
 ━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  <img src="https://te.legra.ph/file/693f4add2a4ae3fc95df9.jpg">
-</p>
+
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
